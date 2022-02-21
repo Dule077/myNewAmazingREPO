@@ -1,0 +1,2 @@
+# myNewAmazingREPO
+Repo for exercise.
